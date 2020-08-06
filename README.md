@@ -1,5 +1,4 @@
 # bensdatascience
-For learniig data sciencedd
-## Other reasons
-i"testing markdown"
+For learning data science.
+
 
